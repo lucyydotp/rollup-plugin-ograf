@@ -1,0 +1,8 @@
+{
+    "$schema": "https://ograf.ebu.io/v1/specification/json-schemas/graphics/schema.json",
+    "id": "me.lucyydotp.test.two",
+    "name": "Test graphic",
+    "main": "two.js",
+    "supportsRealTime": true,
+    "supportsNonRealTime": false
+}

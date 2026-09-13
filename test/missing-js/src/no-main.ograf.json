@@ -1,0 +1,7 @@
+{
+    "$schema": "https://ograf.ebu.io/v1/specification/json-schemas/graphics/schema.json",
+    "id": "me.lucyydotp.test.no-main",
+    "name": "Test graphic",
+    "supportsRealTime": true,
+    "supportsNonRealTime": false
+}

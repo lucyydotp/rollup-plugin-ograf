@@ -1,0 +1,8 @@
+{
+    "$schema": "https://ograf.ebu.io/v1/specification/json-schemas/graphics/schema.json",
+    "id": "me.lucyydotp.test.missing-main",
+    "name": "Test graphic",
+    "main": "this-file-does-not-exist.js",
+    "supportsRealTime": true,
+    "supportsNonRealTime": false
+}
