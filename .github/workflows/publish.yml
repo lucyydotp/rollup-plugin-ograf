@@ -17,6 +17,7 @@ jobs:
             https://registry.npmjs.org|$NPM_TOKEN
 
       - run: bun ci
+      - run: bun run build
       - run: bun publish
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

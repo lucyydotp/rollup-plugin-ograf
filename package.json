@@ -1,7 +1,7 @@
 {
     "name": "rollup-plugin-ograf",
     "description": "Build OGraf graphics with Rollup",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "keywords": ["rollup-plugin", "ograf"],
     "author": {
         "name": "Lucy Poulton",
